@@ -1,0 +1,159 @@
+﻿@model IEnumerable<FinalProject.Models.MasterCategoryMenu>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+ <main >
+
+   @*  <div class="search-bar">
+        <form class="search-form d-flex align-items-center" method="POST" action="#">
+            <input type="text" name="query" placeholder="Search" title="Enter search keyword">
+            <button type="submit" title="Search"><i class="bi bi-search"></i></button>
+        </form>
+    </div><!-- End Search Bar --> *@
+
+    <section class="section col-lg-12">
+      
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+ <table @* class="table datatable" *@ class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterCategoryMenuName)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterCategoryMenuName)
+            </td>
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MasterCategoryMenuId"><i class="bi bi-pencil-square"> </i></a> |
+                <a class="butDelehhh" data-bs-toggle="modal" data-bs-target="#verticalycentered" data-bfc="@Url.ActionLink("Delete","MasterCategoryMenu",new {idDelete =item.MasterCategoryMenuId })"> <i class="bi bi-trash"></i></a> |
+                  @if (item.IsActive)
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.MasterCategoryMenuId"><i class="bi bi-eye"></i></a>
+                    }
+                    else
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.MasterCategoryMenuId">
+                            <i class="bi bi-eye-slash"></i>
+
+                        </a>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ 
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+</main>
+
+@* 
+<div class="modal fade" id="verticalycentered" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Vertically Centered</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure?
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="cancelDelt" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-danger" id="confirmDelt">Delete</button>
+            </div>
+        </div>
+    </div>
+</div> *@
+
+@* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+ *@
+ <script src="~/jquery/jquery.js"></script>
+
+
+@* <script>
+    var dataDeleteInfo = "";
+
+    $(".butDelehhh").click(function(){
+        dataDeleteInfo = $(this).data("bf");
+        
+    })
+
+    $("#confirmDelt").click(function(){
+        window.location = dataDeleteInfo;
+        data = ""
+    })
+
+    $("#cancelDelt").click(function(){
+        dataDeleteInfo = ""
+    })
+</script> *@
+
+<div class="modal fade" id="verticalycentered" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Vertically Centered</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure?
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="cancelDelt" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-danger" id="confirmDelt">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> *@
+<script src="~/jquery/jquery.js"></script>
+
+
+<script>
+    var dataDeleteInfo = "";
+    $(".butDelehhh").click(function () {
+        dataDeleteInfo = $(this).data("bfc")
+    })
+
+    $("#confirmDelt").click(function () {
+        // window.location = dataDeleteInfo;
+        window.location = dataDeleteInfo;
+        // window.location = "https://Google.com";
+        dataDeleteInfo = ""
+    })
+
+    $("#cancelDelt").click(function () {
+        dataDeleteInfo = ""
+    })
+
+</script>

@@ -1,0 +1,1801 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\WhatsApp Image 2023-12-17 at 10.04.53 PM.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\WhatsApp Image 2023-12-17 at 10.04.53 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\dfb1ae88-9f01-484c-8fa3-c81fdd3de730.jfif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\dfb1ae88-9f01-484c-8fa3-c81fdd3de730.jfif"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\12.jpg",
+      "PackagePath": "staticwebassets\\Img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img0382f20b-559f-4aea-a9d5-bcbf5b396672.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img0382f20b-559f-4aea-a9d5-bcbf5b396672.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img04752a55-2f1c-42cb-811e-f5b54445c132.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img04752a55-2f1c-42cb-811e-f5b54445c132.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img0829b529-f5de-4ec7-be38-c1d96d81bb4c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img0829b529-f5de-4ec7-be38-c1d96d81bb4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img0d1ea6d2-b0b3-48d4-8d1a-47fc4a965908.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img0d1ea6d2-b0b3-48d4-8d1a-47fc4a965908.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img0f48ac88-69bd-407a-ada6-038f169ec5dc.png",
+      "PackagePath": "staticwebassets\\Img\\Img0f48ac88-69bd-407a-ada6-038f169ec5dc.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1184317c-f580-4ed4-8f42-20595b836097.png",
+      "PackagePath": "staticwebassets\\Img\\Img1184317c-f580-4ed4-8f42-20595b836097.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1741f6b7-39f6-42e7-8696-5d87e242ddc7.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img1741f6b7-39f6-42e7-8696-5d87e242ddc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1ab34750-3167-44d3-a5e8-0c39113c9438.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img1ab34750-3167-44d3-a5e8-0c39113c9438.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1af137a3-40b8-4760-a08a-46c18d454601.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img1af137a3-40b8-4760-a08a-46c18d454601.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1e1a2378-fe7e-437b-8e43-7ad39bc69f3e.png",
+      "PackagePath": "staticwebassets\\Img\\Img1e1a2378-fe7e-437b-8e43-7ad39bc69f3e.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img1e1e7415-1b48-45f5-8045-ba1c0c5f3778.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img1e1e7415-1b48-45f5-8045-ba1c0c5f3778.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img2370de5f-863b-48fa-9d58-eb84c6507230.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img2370de5f-863b-48fa-9d58-eb84c6507230.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img24b88686-cf2b-4ee2-9159-cb536ee6a660.png",
+      "PackagePath": "staticwebassets\\Img\\Img24b88686-cf2b-4ee2-9159-cb536ee6a660.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img27c30d00-fbe8-4a39-9ab2-7bc55ff9a782.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img27c30d00-fbe8-4a39-9ab2-7bc55ff9a782.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img28484fb0-fb68-4811-ac3c-884cab5ca645.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img28484fb0-fb68-4811-ac3c-884cab5ca645.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img28ac12dc-729b-466c-9e67-9883fe2e8682.png",
+      "PackagePath": "staticwebassets\\Img\\Img28ac12dc-729b-466c-9e67-9883fe2e8682.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img29ce0249-898e-4bbc-a058-4454537dd6ad.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img29ce0249-898e-4bbc-a058-4454537dd6ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img29f5f3c6-656a-4175-afe6-605491f3329d.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img29f5f3c6-656a-4175-afe6-605491f3329d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img2af3872c-70cc-4f6e-a51e-389cd2c3e06a.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img2af3872c-70cc-4f6e-a51e-389cd2c3e06a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img2de70ec4-ab44-4716-82f2-6cecd9d09aba.png",
+      "PackagePath": "staticwebassets\\Img\\Img2de70ec4-ab44-4716-82f2-6cecd9d09aba.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img2e9a67f6-338d-4dc2-a8dd-437d1f1547de.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img2e9a67f6-338d-4dc2-a8dd-437d1f1547de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img31508865-996b-47b9-96b2-26eff52de1ae.png",
+      "PackagePath": "staticwebassets\\Img\\Img31508865-996b-47b9-96b2-26eff52de1ae.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img31981d43-8afe-4958-af05-1cc04f1ff451.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img31981d43-8afe-4958-af05-1cc04f1ff451.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img32afb615-e4fb-422d-ac0d-e3e7d955d30b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img32afb615-e4fb-422d-ac0d-e3e7d955d30b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3462a61b-6973-4d18-90b4-d6078ea1f39f.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img3462a61b-6973-4d18-90b4-d6078ea1f39f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img365c20d4-9059-4b95-a1ca-41afc208d721.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img365c20d4-9059-4b95-a1ca-41afc208d721.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img37e7eb0e-45f6-4976-af98-35f1c7b29327.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img37e7eb0e-45f6-4976-af98-35f1c7b29327.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img388303b5-6f0b-4bd0-8f09-7334e1bf71dd.jfif",
+      "PackagePath": "staticwebassets\\Img\\Img388303b5-6f0b-4bd0-8f09-7334e1bf71dd.jfif"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3b25bd7e-981e-4695-ad03-2569e2cc225e.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img3b25bd7e-981e-4695-ad03-2569e2cc225e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3be5664b-9503-425f-b044-8c61c78b927f.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img3be5664b-9503-425f-b044-8c61c78b927f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3c0cf19f-a4a6-4bf2-8921-a9dfa333fe60.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img3c0cf19f-a4a6-4bf2-8921-a9dfa333fe60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3caf3838-460f-4a1f-ae34-d11424c618c6.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img3caf3838-460f-4a1f-ae34-d11424c618c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img3e9ffd58-664a-40f3-a21c-e4633f179d96.png",
+      "PackagePath": "staticwebassets\\Img\\Img3e9ffd58-664a-40f3-a21c-e4633f179d96.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img40d7b703-c0b9-48b4-a660-8628248fa901.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img40d7b703-c0b9-48b4-a660-8628248fa901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img41263a4e-7326-45f3-a084-1d08dd2fbe4c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img41263a4e-7326-45f3-a084-1d08dd2fbe4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img430bb762-fb0b-4f57-91b6-7430e88e581f.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img430bb762-fb0b-4f57-91b6-7430e88e581f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img45bbe06e-494a-454d-9051-b37a96c78ee2.png",
+      "PackagePath": "staticwebassets\\Img\\Img45bbe06e-494a-454d-9051-b37a96c78ee2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img4ba33685-e490-4729-86aa-82212221ca5f.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img4ba33685-e490-4729-86aa-82212221ca5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img4d1fe726-cb3a-4f65-8667-4846780cb6c1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img4d1fe726-cb3a-4f65-8667-4846780cb6c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img4e7def31-9203-4f01-bafa-62d8ad0968db.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img4e7def31-9203-4f01-bafa-62d8ad0968db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img548effb0-230d-490e-a9a5-0d82071d4ada.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img548effb0-230d-490e-a9a5-0d82071d4ada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img57e8bd3b-4f91-407d-bd48-94e8b14b4d59.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img57e8bd3b-4f91-407d-bd48-94e8b14b4d59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img5977429d-4769-4b06-8ca1-506fd4a36a75.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img5977429d-4769-4b06-8ca1-506fd4a36a75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img5a95871a-727d-4fe1-8cd4-cdc5759c4b07.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img5a95871a-727d-4fe1-8cd4-cdc5759c4b07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img5e50b087-b66b-4db0-91ce-898e2ccd6d4e.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img5e50b087-b66b-4db0-91ce-898e2ccd6d4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img609b6345-9e6b-4993-aec3-4d0364fb9c7b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img609b6345-9e6b-4993-aec3-4d0364fb9c7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img6143c01d-f49f-4c93-92a8-fae6e4292d10.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img6143c01d-f49f-4c93-92a8-fae6e4292d10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img623b7f0f-822b-44c8-8601-ba4b65645c83.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img623b7f0f-822b-44c8-8601-ba4b65645c83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img643b689a-48cc-4f26-b121-fbfcfc958c35.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img643b689a-48cc-4f26-b121-fbfcfc958c35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img64aba4d3-e783-49c0-acc4-605e595e62e4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img64aba4d3-e783-49c0-acc4-605e595e62e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img6559c8a7-56f3-4de2-8760-7b1b774f731a.png",
+      "PackagePath": "staticwebassets\\Img\\Img6559c8a7-56f3-4de2-8760-7b1b774f731a.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img6617d9e9-de3b-4c16-be32-65433a4febc2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img6617d9e9-de3b-4c16-be32-65433a4febc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img71310e71-39b8-48d9-9ffd-48104f8a7631.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img71310e71-39b8-48d9-9ffd-48104f8a7631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img734189cf-4407-46d0-bffd-1f474da88588.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img734189cf-4407-46d0-bffd-1f474da88588.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img73d295f9-a7ed-4a00-8170-845a6df07d51.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img73d295f9-a7ed-4a00-8170-845a6df07d51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img75f8fb32-c48b-4cfe-b403-96031f5966fe.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img75f8fb32-c48b-4cfe-b403-96031f5966fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7774bc92-5ad8-414a-a4fb-be6cd26cac7b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img7774bc92-5ad8-414a-a4fb-be6cd26cac7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img79d15ec2-7a91-46d8-a8b2-a1726e801935.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img79d15ec2-7a91-46d8-a8b2-a1726e801935.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7ba5210d-1f89-443c-9139-e0d3767de3c2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img7ba5210d-1f89-443c-9139-e0d3767de3c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7c921799-c6b6-4525-b88a-9331f34593a4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img7c921799-c6b6-4525-b88a-9331f34593a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7cb25a41-7f8e-4cc6-bb21-0b3f17bd0191",
+      "PackagePath": "staticwebassets\\Img"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7d172cb5-188e-4d98-8f06-12728f706c13.png",
+      "PackagePath": "staticwebassets\\Img\\Img7d172cb5-188e-4d98-8f06-12728f706c13.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7e9e2adf-5136-48f1-9939-112fed818794.png",
+      "PackagePath": "staticwebassets\\Img\\Img7e9e2adf-5136-48f1-9939-112fed818794.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img7f8dbf75-7e1b-4b5b-8648-58d56e9d7dc1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img7f8dbf75-7e1b-4b5b-8648-58d56e9d7dc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img802366d6-8e13-4943-a95f-02c0b7d2842e.png",
+      "PackagePath": "staticwebassets\\Img\\Img802366d6-8e13-4943-a95f-02c0b7d2842e.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img823eedf2-10ec-442b-add5-44a9d80fecb4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img823eedf2-10ec-442b-add5-44a9d80fecb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img843643fb-932a-447c-8230-7a168c112e78.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img843643fb-932a-447c-8230-7a168c112e78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img84e1846d-8774-4361-a5c3-fdb682fad4be.png",
+      "PackagePath": "staticwebassets\\Img\\Img84e1846d-8774-4361-a5c3-fdb682fad4be.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img88da5668-80e2-43c4-b967-1df526cb8854.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img88da5668-80e2-43c4-b967-1df526cb8854.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img89357d95-4a45-491f-842c-55e4df0faaeb.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img89357d95-4a45-491f-842c-55e4df0faaeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8952a41d-2892-4efa-99fe-de5b76d5dcc6",
+      "PackagePath": "staticwebassets\\Img"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8b7add5c-2166-44a1-a5bf-7fa482a5986b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img8b7add5c-2166-44a1-a5bf-7fa482a5986b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8d074cd1-f96b-46fc-bb56-73157190ab75.png",
+      "PackagePath": "staticwebassets\\Img\\Img8d074cd1-f96b-46fc-bb56-73157190ab75.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8e2e731a-4d8b-425e-9bc1-4e05007d6a7d",
+      "PackagePath": "staticwebassets\\Img"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8ed671b0-3268-467e-97c8-de964c9ed1c9.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img8ed671b0-3268-467e-97c8-de964c9ed1c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img8f15a495-684a-432f-bcf6-4b43e476aea8.png",
+      "PackagePath": "staticwebassets\\Img\\Img8f15a495-684a-432f-bcf6-4b43e476aea8.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img967d67f4-eedd-4f79-9568-0dda42b893bc.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img967d67f4-eedd-4f79-9568-0dda42b893bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img96f5766e-f2d4-4fef-883c-ec35fbf0adf6.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img96f5766e-f2d4-4fef-883c-ec35fbf0adf6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img989ced09-7095-4ef2-b041-be1619e77498.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img989ced09-7095-4ef2-b041-be1619e77498.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img9afdaaea-1256-42a5-bae3-8bd9ab3ac7fa.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img9afdaaea-1256-42a5-bae3-8bd9ab3ac7fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Img9fabca70-4c40-4268-a583-4ef36dad3de9.jpg",
+      "PackagePath": "staticwebassets\\Img\\Img9fabca70-4c40-4268-a583-4ef36dad3de9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imga04b260e-e973-41a0-bdd9-0d117989d0aa.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imga04b260e-e973-41a0-bdd9-0d117989d0aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imga0ec7558-2748-498b-b56b-2f43bbbbd307.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imga0ec7558-2748-498b-b56b-2f43bbbbd307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imga20d6d9a-89e8-4baf-bfe7-886e65b1e4e1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imga20d6d9a-89e8-4baf-bfe7-886e65b1e4e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imga4172211-060d-4d90-8626-0fca7cb30050",
+      "PackagePath": "staticwebassets\\Img"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imga47c13ac-70f0-4fb4-b877-56e6b857a17a.png",
+      "PackagePath": "staticwebassets\\Img\\Imga47c13ac-70f0-4fb4-b877-56e6b857a17a.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgaa40f97a-4635-44a2-8411-94ce830f4859.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgaa40f97a-4635-44a2-8411-94ce830f4859.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgabaa4b1f-f9aa-4fdd-8a82-1d62a028216b.png",
+      "PackagePath": "staticwebassets\\Img\\Imgabaa4b1f-f9aa-4fdd-8a82-1d62a028216b.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgabb4b887-9ae8-4f6e-92cc-1fb491a4d5ac.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgabb4b887-9ae8-4f6e-92cc-1fb491a4d5ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgadbd431e-b99b-40f9-b3ab-bb7d0eb67c9f.jfif",
+      "PackagePath": "staticwebassets\\Img\\Imgadbd431e-b99b-40f9-b3ab-bb7d0eb67c9f.jfif"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgae55a0d4-2e5c-485b-b501-46e5da8f8afd.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgae55a0d4-2e5c-485b-b501-46e5da8f8afd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgae7f43e5-b01a-4d8b-9ee6-4cce94c6b84a.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgae7f43e5-b01a-4d8b-9ee6-4cce94c6b84a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgaee90a67-f74d-403c-886e-0c19de226d1c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgaee90a67-f74d-403c-886e-0c19de226d1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgb4d28602-ddd4-4df5-a292-b8b5b7dd57d7.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgb4d28602-ddd4-4df5-a292-b8b5b7dd57d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgb51cfd1a-890d-4b69-9b33-c533eb666b95.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgb51cfd1a-890d-4b69-9b33-c533eb666b95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgb5e9f65d-d349-44c5-8de7-f1413346dfa1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgb5e9f65d-d349-44c5-8de7-f1413346dfa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgb6a1d867-adb0-419d-b6f4-57adbb0fdd04.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgb6a1d867-adb0-419d-b6f4-57adbb0fdd04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgb6e7ca99-b962-4cf7-a141-c7187a7acd5d.png",
+      "PackagePath": "staticwebassets\\Img\\Imgb6e7ca99-b962-4cf7-a141-c7187a7acd5d.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgbd9fd41d-a374-4197-b9cf-5df23d8d6441.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgbd9fd41d-a374-4197-b9cf-5df23d8d6441.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgbe176ba5-784a-4067-a3fd-316ca448c284.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgbe176ba5-784a-4067-a3fd-316ca448c284.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgbedcc415-1c76-4471-8d8b-72661debb5c1.jfif",
+      "PackagePath": "staticwebassets\\Img\\Imgbedcc415-1c76-4471-8d8b-72661debb5c1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgc0f5109d-1bb2-430d-82df-dd9acc8050fb.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgc0f5109d-1bb2-430d-82df-dd9acc8050fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgc33dbe29-e963-4dbf-b09f-a147f57b279b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgc33dbe29-e963-4dbf-b09f-a147f57b279b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgc7e4b32d-32e4-4bac-8a6e-ff48df6879e2",
+      "PackagePath": "staticwebassets\\Img"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgc8382e15-9efe-48da-a0b9-91d26ac94aa0.png",
+      "PackagePath": "staticwebassets\\Img\\Imgc8382e15-9efe-48da-a0b9-91d26ac94aa0.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgcf5eeb60-42da-4505-8dda-c32f7dc257a7.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgcf5eeb60-42da-4505-8dda-c32f7dc257a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgcfb0b037-188c-4602-a6c9-0c9b668ecddc.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgcfb0b037-188c-4602-a6c9-0c9b668ecddc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd2345a01-af4c-4628-81a4-683be00b548c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd2345a01-af4c-4628-81a4-683be00b548c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd2f9ed95-9e8a-4c5e-b15c-3973638cdb58.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd2f9ed95-9e8a-4c5e-b15c-3973638cdb58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd43a8296-64ee-4ccb-a00c-ec8db949d717.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd43a8296-64ee-4ccb-a00c-ec8db949d717.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd4f276a5-ed5c-4f0d-8da0-0ce395a339ce.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd4f276a5-ed5c-4f0d-8da0-0ce395a339ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd60a5af1-f616-4f05-98f0-f767645d5740.png",
+      "PackagePath": "staticwebassets\\Img\\Imgd60a5af1-f616-4f05-98f0-f767645d5740.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd676d046-b5bb-40ae-af69-a55d526a2e7c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd676d046-b5bb-40ae-af69-a55d526a2e7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgd701d975-6ed6-4bd8-9897-e85ca3e6f027.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgd701d975-6ed6-4bd8-9897-e85ca3e6f027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgdc0b01cd-ddfc-4123-a369-2c14cc76ed68.webp",
+      "PackagePath": "staticwebassets\\Img\\Imgdc0b01cd-ddfc-4123-a369-2c14cc76ed68.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgdc4effc9-2248-4caf-ba0d-5f42484e9b8d.png",
+      "PackagePath": "staticwebassets\\Img\\Imgdc4effc9-2248-4caf-ba0d-5f42484e9b8d.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgdc565966-34ec-44fc-bf62-83513d4303ba.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgdc565966-34ec-44fc-bf62-83513d4303ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgdfcaa487-31fd-4101-be6d-2ad7358171c4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgdfcaa487-31fd-4101-be6d-2ad7358171c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge078d1ac-a40c-4cea-94c6-82f868507314.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imge078d1ac-a40c-4cea-94c6-82f868507314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge1eb3ad3-1e8f-4252-9a0a-d8a6c4dd6591.png",
+      "PackagePath": "staticwebassets\\Img\\Imge1eb3ad3-1e8f-4252-9a0a-d8a6c4dd6591.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge49cded4-84b6-4617-a5c7-685ab1173af0.png",
+      "PackagePath": "staticwebassets\\Img\\Imge49cded4-84b6-4617-a5c7-685ab1173af0.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge4a97aae-6c85-42f1-ad7a-2a743040930f.png",
+      "PackagePath": "staticwebassets\\Img\\Imge4a97aae-6c85-42f1-ad7a-2a743040930f.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge6dcf8bc-cf73-4ff5-afdb-d55c880fa09d.png",
+      "PackagePath": "staticwebassets\\Img\\Imge6dcf8bc-cf73-4ff5-afdb-d55c880fa09d.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge6f41999-116f-4ffd-8850-72d5808b0e61.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imge6f41999-116f-4ffd-8850-72d5808b0e61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imge81c8465-75f3-4396-b578-8ea23fbb80e1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imge81c8465-75f3-4396-b578-8ea23fbb80e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgefbe23ee-cd82-439d-81b6-9b4fb759d4f5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgefbe23ee-cd82-439d-81b6-9b4fb759d4f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf0719114-c71c-42b1-8a5d-c50cbf1e083d.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf0719114-c71c-42b1-8a5d-c50cbf1e083d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf140b492-736e-44ae-b38d-8e4170355cfc.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf140b492-736e-44ae-b38d-8e4170355cfc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf441e670-b0c9-4184-b072-6be4f740fe66.png",
+      "PackagePath": "staticwebassets\\Img\\Imgf441e670-b0c9-4184-b072-6be4f740fe66.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf4505bba-686c-45e3-98f0-e08db6f0032c.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf4505bba-686c-45e3-98f0-e08db6f0032c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf6010632-2ee1-4b25-9d4a-492cef0c031b.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf6010632-2ee1-4b25-9d4a-492cef0c031b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf6825d0b-21b0-49b9-b830-2b51e33a129e.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf6825d0b-21b0-49b9-b830-2b51e33a129e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf73588a2-af2c-448e-8a54-5300a7d3e404.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf73588a2-af2c-448e-8a54-5300a7d3e404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf83ab66f-19d6-4e82-9fc1-b1e450ad0900.png",
+      "PackagePath": "staticwebassets\\Img\\Imgf83ab66f-19d6-4e82-9fc1-b1e450ad0900.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf876c289-2c9f-43dd-81cc-54b78d175d3d.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf876c289-2c9f-43dd-81cc-54b78d175d3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\Imgf9da4f80-268a-482e-9c5d-0c872a130cd5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Imgf9da4f80-268a-482e-9c5d-0c872a130cd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\logo-black.png",
+      "PackagePath": "staticwebassets\\Img\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\logo12.png",
+      "PackagePath": "staticwebassets\\Img\\logo12.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\Img\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\font\\ytp-regular.html",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\ytp-regular.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\book-a-table.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\book-a-table.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\breath.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\breath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\count.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\count.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\deal-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\deal-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\deal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\offer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\popular.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\popular.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\banner\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\table.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-comment1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-comment2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-dec-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-dec-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\sliderbar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\sliderbar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\blog\\sliderbar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\gallery\\l9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\logo\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\pro-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\pro-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\pro-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\product\\pro-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\slider\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\slider\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\tesi-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\img\\team\\tesi-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\vendor\\jquery-v1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-v1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\images\\bg\\1.html",
+      "PackagePath": "staticwebassets\\images\\bg\\1.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\04  10  2023(Core)\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\win-x64\\staticwebassets\\msbuild.FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\win-x64\\staticwebassets\\msbuild.build.FinalProject.props",
+      "PackagePath": "build\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.FinalProject.props",
+      "PackagePath": "buildMultiTargeting\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.FinalProject.props",
+      "PackagePath": "buildTransitive\\FinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

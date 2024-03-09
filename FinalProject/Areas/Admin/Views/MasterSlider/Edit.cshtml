@@ -1,0 +1,53 @@
+﻿@model FinalProject.Areas.Admin.ViewModels.MasterSliderViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="row justify-content-center">
+<div class="col-lg-7">
+<div class="card">
+    <div class="card-body">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MasterSliderId" />
+            <div class="form-group">
+                <label asp-for="MasterSliderTitle" class="control-label"></label>
+                <input asp-for="MasterSliderTitle" class="form-control" />
+                <span asp-validation-for="MasterSliderTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterSliderBreef" class="control-label"></label>
+                <input asp-for="MasterSliderBreef" class="form-control" />
+                <span asp-validation-for="MasterSliderBreef" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterSliderDesc" class="control-label"></label>
+                <input asp-for="MasterSliderDesc" class="form-control" />
+                <span asp-validation-for="MasterSliderDesc" class="text-danger"></span>
+            </div>
+            <div hidden class="form-group">
+                <label asp-for="MasterSliderImg" class="control-label"></label>
+                <input asp-for="MasterSliderImg" class="form-control" />
+                <span asp-validation-for="MasterSliderImg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="file" class="control-label"></label>
+                <input asp-for="file" class="form-control" />
+                <span asp-validation-for="file" class="text-danger"></span>
+            </div>
+          
+            
+            <div class="form-group mt-3">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+<div class="text-center">
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</div>

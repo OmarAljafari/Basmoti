@@ -1,0 +1,43 @@
+﻿@model FinalProject.Areas.Admin.ViewModels.WhatPeopleSayViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="WhatPeopleSayId" />
+            <div class="form-group">
+                <label asp-for="WhatPeopleSayName" class="control-label"></label>
+                <input asp-for="WhatPeopleSayName" class="form-control" />
+                <span asp-validation-for="WhatPeopleSayName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WhatPeopleSayDescription" class="control-label"></label>
+                <input asp-for="WhatPeopleSayDescription" class="form-control" />
+                <span asp-validation-for="WhatPeopleSayDescription" class="text-danger"></span>
+            </div>
+            <div  class="form-group">
+                <label asp-for="file" class="control-label"></label>
+                <input asp-for="file" class="form-control" />
+                <span asp-validation-for="file" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WhatPeopleSayTitle" class="control-label"></label>
+                <input asp-for="WhatPeopleSayTitle" class="form-control" />
+                <span asp-validation-for="WhatPeopleSayTitle" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group mt-3">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="text-center">Back to List</a>
+</div>
+

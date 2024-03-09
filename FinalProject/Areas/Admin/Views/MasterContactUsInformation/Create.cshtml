@@ -1,0 +1,42 @@
+﻿@model FinalProject.Models.MasterContactUsInformation
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<div class="row justify-content-center">
+<div class="col-lg-7">
+<div class="card">
+    <div class="card-body">
+        <form asp-action="Create" class="row g-3" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MasterContactUsInformationIdesc" class="control-label"></label>
+                <input asp-for="MasterContactUsInformationIdesc" class="form-control" />
+                <span asp-validation-for="MasterContactUsInformationIdesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterContactUsInformationImageUrl" class="control-label"></label>
+                <input asp-for="MasterContactUsInformationImageUrl"  class="form-control" />
+                <span asp-validation-for="MasterContactUsInformationImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterContactUsInformationRedirect" class="control-label"></label>
+                <input asp-for="MasterContactUsInformationRedirect" class="form-control" />
+                <span asp-validation-for="MasterContactUsInformationRedirect" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+<div class="text-center">
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</div>

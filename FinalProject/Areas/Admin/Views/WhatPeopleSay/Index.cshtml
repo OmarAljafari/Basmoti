@@ -1,0 +1,112 @@
+﻿@model IEnumerable<FinalProject.Models.WhatPeopleSay>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<section class="section col-lg-12">
+
+    <div class="row">
+        <div class="col-lg-12">
+
+            <div class="card">
+                <div class="card-body">
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WhatPeopleSayName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhatPeopleSayDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhatPeopleSayImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhatPeopleSayTitle)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhatPeopleSayName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhatPeopleSayDescription)
+            </td>
+            <td>
+                <img src="~/Img/@item.WhatPeopleSayImage" style="max-width:90px;max-height:90px"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhatPeopleSayTitle)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.WhatPeopleSayId"><i class="bi bi-pencil-square"> </i></a> |
+                <a class="butDele" href="" data-bs-toggle="modal" data-bs-target="#verticalycentered" data-path="@Url.ActionLink("Delete","WhatPeopleSay",new{idDelete = item.WhatPeopleSayId})"><i class="bi bi-trash"></i></a> |
+                    @if (item.IsActive)
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.WhatPeopleSayId"><i class="bi bi-eye"></i></a>
+                    }
+                    else
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.WhatPeopleSayId">
+                            <i class="bi bi-eye-slash"></i>
+
+                        </a>
+
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="modal fade" id="verticalycentered" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure?
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="cancelDelt" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-danger" id="confirmDelt">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var data =""
+    $(".butDele").click(function(){
+        data = $(this).data("path")
+    })
+
+    $("#confirmDelt").click(function(){
+        window.location = data;
+        data = "";
+    })
+    $("#cancelDelt").click(function(){
+        data = ""
+    })
+
+
+</script>

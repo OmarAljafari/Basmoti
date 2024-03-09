@@ -1,0 +1,162 @@
+﻿@model IEnumerable<FinalProject.Models.MasterItemMenu>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<section class="section col-lg-12">
+
+    <div class="row">
+        <div class="col-lg-12">
+
+            <div class="card">
+                <div class="card-body">
+<table class="table  table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuBreef)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterItemMenuDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterCategoryMenu.MasterCategoryMenuName)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterItemMenuTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterItemMenuBreef)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterItemMenuDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterItemMenuPrice)
+            </td>
+            <td>
+                <img src="~/Img/@item.MasterItemMenuImageUrl" style="max-width:90px;max-height:90px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterItemMenuDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterCategoryMenu.MasterCategoryMenuName)
+            </td>
+          
+            <td>
+                <a  asp-action="Edit" asp-route-id="@item.MasterItemMenuId"><i class="bi bi-pencil-square"></i></a> |
+@*                 <a class="butDelehhh" href="" data-bs-toggle="modal" data-bs-target="#verticalycentered" data-InfoDele="@Url.ActionLink("Delete","MasterItemMenu",new{idDelete=item.MasterItemMenuId})"> <i class="bi bi-trash"></i> </a> |
+                *@ <a class="butDelehhh" data-bs-toggle="modal" data-bs-target="#verticalycentered" data-bf="@Url.ActionLink("Delete","MasterItemMenu",new{idDelete = item.MasterItemMenuId})"><i class="bi bi-trash"></i></a> |
+
+                    @if (item.IsActive)
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.MasterItemMenuId"><i class="bi bi-eye"></i></a>
+                    }else{
+                        <a asp-action="Active" asp-route-idActive="@item.MasterItemMenuId"><i class="bi bi-eye-slash"></i>
+
+                        </a>
+                    }
+                
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="modal fade" id="verticalycentered" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure?
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="cancelDelt" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-danger" id="confirmDelt">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* <script>
+    var data = "";
+    $(".IconDele").click(function(){
+        data = $(this).data("InfoDele");
+       
+    })
+
+    $("#confirmDelt").click(function () {
+        window.location = data;
+        data = "";
+    })
+    $("#cancelDelt").click(function () {
+        data = "";
+    })
+
+</script> *@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+@* <script>
+    var data = "";
+    $(".butDelehhh").click(function () {
+        data = $(this).data("infoDele");
+    })
+
+    $("#confirmDelt").click(function () {
+        window.location = data;
+        data = "";
+    })
+
+    $("#cancelDelt").click(function () {
+        data = "";
+    })
+</script> *@
+<script>
+    var data = "";
+    $(".butDelehhh").click(function () {
+        data = $(this).data("bf");
+    })
+
+    $("#confirmDelt").click(function () {
+        window.location = data;
+        data = "";
+    })
+
+    $("#cancelDelt").click(function () {
+        data = "";
+    })
+</script>
